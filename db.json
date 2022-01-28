@@ -1,0 +1,7 @@
+{
+  "account": [
+    { "userid": "1", "userpw": "1", "username": "1", "useremail": "brian654321@naver.com", "point": 100 }
+    { "userid": "jobum", "userpw": "0923", "username": "jobum", "useremail": "brian654321@naver.com", "point": 987 },
+    { "userid": "jo", "userpw": "1234", "username": "jo", "useremail": "brian654321@naver.com", "point": 123 },
+  ],
+}
